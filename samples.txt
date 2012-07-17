@@ -1,0 +1,6 @@
+http://stackoverflow.com/questions/6186511/how-to-reveal-that-screen-is-locked
+http://stackoverflow.com/questions/7044868/how-to-tell-if-user-is-on-lock-screen-from-service
+http://blog.matthew.org.pl/2009/06/20/git-tutorial-czesc-1-wstep/
+https://groups.google.com/forum/?fromgroups#!topic/android-developers/zI16t2CUbuQ
+http://code.google.com/p/mylockforandroid/wiki/LockActivity
+http://www.devdaily.com/java/jwarehouse/android/core/java/android/app/KeyguardManager.java.shtml
