@@ -13,6 +13,7 @@ public class SecondClass {
 
     public void test() {
         System.out.println("changed in netbeans");
+        System.out.println("changed in cmd");
     }
 
 }
