@@ -10,6 +10,10 @@ package experimentgit;
  * @author Kamil
  */
 public class SecondClass {
-    System.out.println("I added commit from command line once again");
-	System.out.println("I added commit from command line once again");
+
+    public void test() {
+        System.out.println("I added commit from command line once again");
+        System.out.println("I added commit from command line once again");
+    }
+
 }
