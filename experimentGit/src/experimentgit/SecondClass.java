@@ -12,9 +12,7 @@ package experimentgit;
 public class SecondClass {
 
     public void test() {
-        System.out.println("I added commit from command line once again");
-        System.out.println("I added commit from command line once again");
-        System.out.println("I added commit from command line once again");
+        System.out.println("changed in cmd");
     }
 
 }
