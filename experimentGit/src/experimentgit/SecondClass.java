@@ -7,7 +7,7 @@ package experimentgit;
 public class SecondClass {
 
     public void test() {
-        System.out.println("try revert from netbans");
+        System.out.println("try revert from netbans2");
     }
 
 }
